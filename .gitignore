@@ -28,7 +28,6 @@ Homestead.json
 docker/docker-compose.yml
 package-lock.json
 
-public/
 public/css/
 public/js/
 
